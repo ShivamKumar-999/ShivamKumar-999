@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ShivamKumar-999/ShivamKumar-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shaping business decisions through advanced analytics, BI solutions and AI automation across e-commerce, digital media. I bring a unique blend of technical depth and business acumen to help organizations make smarter and data-driven decisions for long-term growth. 
 
-Here are some ideas to get you started:
+🔑 Key Skills: 
+ Data analytics, Statistical analysis, Data Visualization, Business Insights, Hypothesis Testing, Predictive Analytics, Problem Solving, Machine learning, AI and Project management. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Languages: 
+SQL, Python, 
+
+💾 Database: 
+Microsoft SQL Server, PostgreSQL,  MySQL,  AWS Athena,  
+
+📚 Other: 
+Excel, AWS Cloud, Azure, Microsoft Power BI   
